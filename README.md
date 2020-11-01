@@ -14,6 +14,9 @@ If you or your company/organization completely upholds & honor & respect & follo
 
 Use this license to create a better world for everyone.  
 Help yourself & others with this license, to increase Human-Rights everywhere.  
+
+Civilized society makes sure there are restrictions on everything & everyone, so that excessive power/ability/money, etc are not abused or used for harm/kill/steal, etc.  
+History can always show, unchecked/unrestricted power/ability/money,etc is always harmful.  
 <br />
 <br />
 <br />
@@ -31,4 +34,4 @@ All other copyright items cited here are the copyright of their respective autho
 <br />
 <br />
 
-Copyright (C) 2020 Erik T. Ashfolk. License: <a href="HumanRightsROSL.txt">HRVARL</a>.
+Copyright (C) 2020 Erik T. Ashfolk. License: <a href="HumanRightsROSL.txt">HumanRightsROSL</a>.
