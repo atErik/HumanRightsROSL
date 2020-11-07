@@ -17,13 +17,13 @@ Help yourself & others with this license, to increase Human-Rights in software, 
 Contributors & Developers, please fork this project, improve it or correct mistakes, then send us a "pull request" to consider your change(s)/modification(s) integrated into this license/project . Thanks in advance for your patience, contribution(s), input.  
 (All/any eligible contributions, discussions, improvements are subject-to and under HumanRightsROSL license).  
 
-Civilized society makes sure there are restrictions on everything & everyone , so that excessive power/ability/money , etc are not abused or used for harm/steal/kill, etc.  
-History can always show , unchecked/unrestricted power/ability/money,etc is always (very) harmful.  
+Civilized society makes sure there are restrictions on everything & everyone , so that excessive power/ability/money, etc are not abused or used for harm/steal/kill, etc.  
+History can always show, unchecked/unrestricted power/ability/money,etc is always (very) harmful.  
 <br />
 <br />
 <br />
 
-On the other hand/side , if you do not care about violations or abuses of Human-Rights , or you want to support more violations of Human-Rights and more abuses of Human-Rights , then you may use GPL, MIT, BSD, etc licenses for your SHIDSP (software/hardware/info/data/service/project) . These GPL, MIT, BSD, etc licenses do not prohibit user from using the SDSP for violating or abusing Human-Rights , so these GPL, MIT, BSD, etc licenses & pushers of these licenses are actually helping to increase violations & abuses of Human-Rights around the world+ . Abusers & violators like to use these GPL, MIT, BSD, etc licenses & software/hardware/info/data/service/project=SHIDSP , their pushers want you to join+help them to do more Human-Rights violations & abuses , as these GPL, MIT, BSD, etc licenses do not have clear restriction/prohibition on Human-Rights violations or abuses.  
+On the other hand/side , if you do not care about violations or abuses of Human-Rights , or you want to support more violations of Human-Rights and more abuses of Human-Rights , then you may use GPL, MIT, BSD, etc licenses for your SHIDSP (software/hardware/info/data/service/project) . These (GPL, MIT, BSD, etc) licenses do not prohibit user from using the SHIDSP for violating or abusing Human-Rights , so these (GPL, MIT, BSD, etc) licenses & pushers of these licenses are actually helping to increase violations & abuses of Human-Rights around the world & in your locality/country . Abusers & violators like to use these (GPL, MIT, BSD, etc) licenses & SHIDSP , their pushers want you to join+help them to develop under those license , so that thier buddies (or they themselves) can use those SHIDSP for more Human-Rights violations & abuses , they can do these violations & abuses easily because these (GPL, MIT, BSD, etc) licenses do not have clear restriction/prohibition on Human-Rights violations or abuses.  
 <br />
 <br />
 <br />
@@ -34,27 +34,29 @@ All/any other copyrighted items cited here are the copyright of their respective
 <br />
 <br />
 
-<h3> To apply/use this "HumanRightsROSL" license:</h3>
+<h3> How To Apply/Use "HumanRightsROSL" License:</h3>
 
 (1) Read the license/contract conditions/terms, restrictions/permissions, etc here:  
 <a href="HumanRightsROSL.txt">HumanRightsROSL</a>.  
-And get a copy if you agree.  
-Rename "HumanRightsROSL.txt" into "HumanRightsROSL_License.txt" (Do Not Modify This).  
-Copy "HumanRightsROSL_License.txt", & paste+rename into "HumanRightsROSL_Licence_for_your-software-name.txt"  
+(1b) And get/download a copy if you agree.  
+(1c) Rename "HumanRightsROSL.txt" into "HumanRightsROSL_License.txt" (Do Not Modify This).  
+(1d) Copy "HumanRightsROSL_License.txt", & paste+rename into "HumanRightsROSL_Licence_for_your-software-name.txt"  
 
-(2) (a) find below lines inside the "HumanRightsROSL_Licence_for_your-software-name.txt" file:<pre><code>Human-Rights Respectful Open Source License: "HumanRightsROSL": ...
+(2-a) find below lines inside the "HumanRightsROSL_Licence_for_your-software-name.txt" file:<pre><code>Human-Rights Respectful Open Source License: "HumanRightsROSL": ...
 Copyright (C) 2020 Erik T. Ashfolk. (atErik-at-Ashfolk-dot-com)</code></pre>
 
-(2) (b) change/modify by editing those lines inside the license for your software, into something like these:<pre><code>Name of your SHIDSP(software/hardware/info/data/service/project),etc: small Description.  
-Copyright (C) YEAR-number Your/Author-NAME (author's longterm web/email/physical address)  
-This SHIDSP(software/hardware/info/data/service/project),etc is licensed under HumanRightsROSL.  
-Without Agreeing With ALL Conditions In "HumanRightsROSL" License/Contract, THIS  
-SHIDSP(software/hardware/info/data/service/project),etc CANNOT BE USED IN ANYWAY.  
+(2-b) change/modify by editing those lines inside the license for your software, into something like these:<pre><code>Name of your SHIDSP(software/hardware/info/data/service/project),etc: Small Description Here.  
+Copyright (C) YEAR-number Your/Author NAME (author's longterm web/email/physical address)  
+This SHIDSP(software/hardware/info/data/service/project),etc  
+Is Licensed Under HumanRights-Respectful-OpenSource-License,  
+HumanRightsROSL.  Without Agreeing With ALL Conditions In
+"HumanRightsROSL" License/Contract, THIS SHIDSP CANNOT BE USED
+IN ANY FORM/WAY.  
 License/Contract is here: https://github.com/atErik/HumanRightsROSL/blob/main/HumanRightsROSL.txt</code></pre>
 
-(3) And began to notify with those (modified) (2b) lines, by using those (modified) lines in top/initial location of your SHIDSP(software/hardware/info/data/service/project),etc source code files, and in notification/output of SHIDSP(software/hardware/information/data/service/project) or binary output, etc.  
+(3-a) And began to notify all with those modified lines from section-2b in above, by using those (modified) lines in top/initial location of your SHIDSP(software/hardware/info/data/service/project),etc source code files, and in notification/output of SHIDSP or binary output, etc.  
 
-(4) Always keep+carry copy of these two license files: "HumanRightsROSL_License.txt", and the "HumanRightsROSL_License_for_your-software-name.txt" with your SSHI(software,service,hardware,Info),etc top/initial folder location.  
+(3-b) Always keep+carry copy of these two license files: "HumanRightsROSL_License.txt", and the "HumanRightsROSL_License_for_your-software-name.txt" with your SSHI(software,service,hardware,Info),etc in top/initial folder location.  
 <br />
 <br />
 <br />
