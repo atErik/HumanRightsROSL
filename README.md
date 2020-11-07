@@ -1,4 +1,4 @@
-# HumanRightsROSL
+<h1>HumanRightsROSL</h1>
 <b>H</b>uman-<b>R</b>ights <b>R</b>espectful <b>O</b>pen-<b>S</b>ource <b>L</b>icense = <a href="HumanRightsROSL.txt">HumanRightsROSL</a> (HRROSL).  
 <br />
 
@@ -31,6 +31,30 @@ On the other hand/side , if you do not care about violations or abuses of Human-
 All/any other trademarks, etc cited here are the property of their respective owners.  
 All/any other copyrighted items cited here are the copyright of their respective author/creator.  
 <br />
+<br />
+<br />
+
+<h3> To apply/use this "HumanRightsROSL" license:</h3>
+
+(1) Read the license/contract conditions/terms, restrictions/permissions, etc here:  
+<a href="HumanRightsROSL.txt">HumanRightsROSL</a>.  
+And get a copy if you agree.  
+Rename "HumanRightsROSL.txt" into "HumanRightsROSL_License.txt" (Do Not Modify This).  
+Copy "HumanRightsROSL_License.txt", & paste+rename into "HumanRightsROSL_Licence_for_your-software-name.txt"  
+
+(2) (a) find below lines inside the "HumanRightsROSL_Licence_for_your-software-name.txt" file:<pre><code>Human-Rights Respectful Open Source License: "HumanRightsROSL": ...
+Copyright (C) 2020 Erik T. Ashfolk. (atErik-at-Ashfolk-dot-com)</code></pre>
+
+(2) (b) change/modify by editing those lines inside the license for your software, into something like these:<pre><code>Name of your SSHI(software/service/hardware,info),etc: small Description.  
+Copyright (C) YEAR-number Your/Author-NAME (author's longterm web/email/physical address)  
+This SSHI(software,service,hardware,info),etc is licensed under HumanRightsROSL.  
+Without Agreeing With ALL Conditions In "HumanRightsROSL" License/Contract, THIS  
+SSHI(Software,Service,Hardware,Info),etc CANNOT BE USED IN ANYWAY.  
+License/Contract is here: https://github.com/atErik/HumanRightsROSL/blob/main/HumanRightsROSL.txt</code></pre>
+
+(3) And began to notify with those (modified) (2b) lines, by using those (modified) lines in top/initial location of your SSHI(software,service,hardware,info),etc source code files, and in notification/output of SSHI(software, service, hardware, information) or binary output, etc.  
+
+(4) Always keep+carry copy of these two license files: "HumanRightsROSL_License.txt", and the "HumanRightsROSL_License_for_your-software-name.txt" with your SSHI(software,service,hardware,Info),etc top/initial folder location.  
 <br />
 <br />
 <br />
