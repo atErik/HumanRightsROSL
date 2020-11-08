@@ -1,166 +1,208 @@
 --- BEGIN of the Human-Rights Respectful Open Source License ---
 
-Change this to your software/data/service/project=SDSP name. And
-write here a very small description.
-Copyright (C) year Author name (longterm email/website address).
+LICENSE/CONTRACT:  
+  NAME: HUMAN-RIGHTS RESPECTFUL OPEN SOURCE LICENSE/CONTRACT.  
+  Version(y-m-d) 2020-11-07.  
+  Copyright (C) 2020 Erik T. Ashfolk. (atErik-at-Ashfolk-dot-com)  
+  Copyright (C) 2020 Emde T. Ashfolk. (emde-at-Ashfolk-dot-com)  
 
-Redistribution and use of this SDSP (here SDSP is pointing to this
-(mentioned in above) software/data/service/project,etc), accompanying
-this license/contract in source and binary forms, with or without
-modification, are permitted provided that the following ten sections
-of conditions are met:
+THIS ITEM (SHIDSP=software,hardware,info,data,service,project):  
+Human-Rights Respectful Open Source License/Contract (HR-ROSL):  
+A license for peaceful usage of software,hardware,information,  
+data,service,project,etc.  
+Copyright (C) 2020 Erik T. Ashfolk. (atErik-at-Ashfolk-dot-com)  
+Copyright (C) 2020 Emde T. Ashfolk. (emde-at-Ashfolk-dot-com)  
+This item is released with Human-Rights Respectful Open Source  
+License/Contract (HR-ROSL) version(y-m-d): 2020-11-07.
+
+Redistribution and use of this SDSP/SHIDSP (here SDSP/SHIDSP is  
+pointing to the above mentioned software/hardware/info/data/  
+service/project,etc), which is accompanying this license/contract  
+in source and binary forms, with or without modification, are  
+permitted provided that the following ten sections of conditions  
+are met:
 
 1. Redistributions of this SDSP (software, source code, service,
-   data, project, etc) must retain the above copyright notice, this
-   list of ten sections of conditions and the following disclaimer.
-2. Redistributions in binary form must reproduce the above copyright
-   notice, this list of ten sections of conditions and the following
-   disclaimer in the documentation and/or other materials provided
-   with the distribution from this SDSP.
-3. Modifications to this SDSP (software, source code, data, service,
-   project, etc) must retain above copyright notice, this list of
-   ten sections of conditions, and the following disclaimer, and may
-   not include further conditions or licensing which go against the
-   spirit of this license.
-4. Here we are using "HR" = Human-Rights. "CH" = Copyright-Holder(s).
-   This SDSP (software/data/service/project) must not be used to
-   violate or abuse (any) HR, either directly or indirectly in any
-   form.  This SDSP must not be used to violate or abuse HR in any
-   form in any physical location, written articles, media, broadcast,
-   video, etc or in any form inside cyberspace/Internet.  This SDSP
-   license/contract is declaring/stating in early to you, user of
-   this SDSP, that, this SDSP must not be used to violate or abuse
-   any human-rights even for "National Security" excuse/reason : As
-   nothing (not even "National Security" or court order/decision or
-   voted decision) can be above "Human-Rights".  This SDSP license/
-   contract is further declaring and stating in early to you : any
-   result/decision from any voting, or any order or decision from
-   any court, to override usage of this SDSP or SDSP content to 
-   violate/abuse HR, is hereby declared null-and-void and illegal.
-5. This SDSP(software/data/service/project) must not be used to cause
-   deliberate harm to any human individual,group,community or country
-   either directly or indirectly, in any form.
+data, project, etc) must retain the above copyright notice, this
+list of ten sections of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above
+copyright notice, this list of ten sections of conditions and the
+following disclaimer in the documentation and/or other materials
+provided with the distribution from this SDSP.
+
+3. Modifications to this SDSP (software, source code, data,
+service, project, etc) must retain above copyright notice, this
+list of ten sections of conditions, and the following disclaimer,
+and may not include further conditions or licensing which go
+against the spirit of this license.
+
+4. Here we use "HR" = Human-Rights. "CH" = Copyright-Holder(s).
+This SDSP (software/data/service/project) must not be used to
+violate or abuse (any) HR, either directly or indirectly in any
+form.  This SDSP must not be used to violate or abuse HR in any
+form in any physical location, written articles, media, video,
+broadcast, etc or in any form inside cyberspace/Internet.  This
+SDSP license/contract is declaring/stating in early to you, user
+of this SDSP, that, this SDSP must not be used to violate / abuse
+any human-rights even for "National Security" excuse/reason : As
+nothing (not even "National Security" or court order/decision or
+voted decision) can be above "Human-Rights".  This SDSP license/
+contract is further declaring and stating in early to you : any
+result/decision from any voting, or any order or decision from
+any court, to override usage of this SDSP or SDSP content to
+violate/abuse HR, is hereby declared null-and-void and illegal.
+
+5. This SDSP(software/data/service/project) must not be used to
+cause deliberate harm to any human individual,group,community or
+country either directly or indirectly, in any form.
+
 6. This SDSP(software/data/service/project) must not be used for
-   stealing any data or physical items, and this SDSP must not be
-   used to violate or abuse any privacy rights, of any human/person
-   individual, group, organization, community, country or earth,
-   either indirectly or directly in any form.  This SDSP must not be
-   used for any type of stealing : spying, data collection, etc
-   without first obtaining written fully aware and voluntary specific
-   consent from each human/person individual, group, subject,etc, and
-   also not without obtaining prior permission from this SDSP CH
-   (copyright-holders).  This SDSP must not be used for any type of
-   digital (or physical) jail : monitoring, tracking,etc not-without
-   obtaining permission from each subject's written fully-aware and
-   voluntary consent, and also not-without obtaining prior permission
-   from this SDSP CH.  You agree that this SDSP license/contract
-   invalidates any type of (direct/indirect) permission to spy/steal/
-   collect. Invalidates (any permission) which was & is or will-be
-   obtained from any judge(s), representative, proxy, jury, court or
-   vote,etc.  To obtain exception/permission from CH of this SDSP,
-   CH must be provided proof of real voluntary consented permission
-   directly from each subject even if there are billions of subjects,
-   where this SDSP is being used, and such must not violate/abuse HR
-   (human-rights).  This SDSP license/contract is declaring+stating
-   to you in early, that, any type of voting result or decision
-   whether based on representative or proxy or directly from people,
-   or any order/decision from any court/judge, to use this SDSP for
-   mass scale (data) stealing/collection, etc are still HR violation
-   and abuse of HR, and any such decision/order is/are hereby
-   declared null-and-void and illegal.
-7. This SDSP(software/data/service/project) must not be used by any
-   Military or branches, Law Enforcement or branches, or by any
-   service/items provider or supplier of/for Military or Law
-   Enforcement.  Unless specific written exception/permission is
-   obtained from CH(copyright holders) of this SDSP.  This SDSP is
-   not-allowed to be used, even if you deceptively change: Military,
-   offense, attack, kill, steal, violate, etc into "Defense", "Love",
-   "Human-Rights", etc.
-8. This SDSP (software/data/service/project) must not be used by any
-   Human-Rights-violating-or-abusing = "HR-v-o-a" entity or person:
-   HR-v-o-a Government(Gov), HR-v-o-a Gov branches, HR-v-o-a public
-   offices, Gov/public funded HR-v-o-a individual, companies, groups,
-   corporations, businesses, organizations, etc, any HR-v-o-a private
-   individual, offices, companies, corporations, businesses, groups,
-   organizations, etc Or any human/contractor person working in/for
-   any of mentioned entities in this section.
-9. This SDSP(software/data/service/project) license/contract stating
-   and declaring to you in early, that, you are permitting this SDSP
-   CH(copyright holders) to question & obtain answer+proof in prior
-   from you and any other sources by any means, to find-out if there
-   is record(s) or potential of this SDSP being used for any HR(human
-   -rights) violation or abuse.  This SDSP license/contract further
-   stating to you : upon any report of HR violation or abuse by the
-   user (you) of this SDSP or by this SDSP itself, this license/
-   contract authorizes CH to obtain detail usage information from
-   you/user of this SDSP, and also authorizes CH to obtain further
-   related information/proof from any other sources by any means,
-   including obtaining any data which even if you have defined as
-   type of "secret" data, etc and then these are to be used for
-   realizing the level of HR violations and abuses and losses
-   therein.  You completely agree & permit, that, any type of HR
-   violation or abuse by you automatically removes all protection
-   of all related data, including any type of "secret" data, and
-   brings those under public & international sector and scrutiny,
-   to find-out detail of HR violations/abuses, to deter HR abuses/
-   violations.  You agree, that, all data from any public money
-   funded any type of Military,Governement,public,private,etc any
-   office/branch/agency,etc is public data.  This license/contract
-   also permits CH to seek compensation, remedy, etc related to HR
-   violation & abuse.  This license/contract permits CH to terminate
-   this license/contract, when CH decide(s) to do so at any time at
-   CH's will.  This license/contract also stating and declaring to
-   you in early, that, especially after above mentioned incidents,
-   CH of this SDSP are automatically authorized to investigate and
-   proceed to international or public court, even if you fail or
-   succeed in providing detail data.  This SDSP license/contract
-   allows CH to proceed in court by themselves, or by choosing thier
-   nominated/representative team/individual in court.  This SDSP
-   license/contract is further declaring and stating to you in
-   early : any decision or order from any type of "secret" or
-   non-public nature of court(s), judge/jury, representative, proxy
-   or vote, is hereby declared invalid and null-and-void, from
-   overriding any prceedings into international or public court.
-   Any HR violation/abuse must be resolved publicly, so that even
-   coercion/corruption can become public knowledge.  This license/
-   contract also stating you/user of this SDSP : upon HR violation/
-   abuse report/incident, CH at their/his/her will can also publish
-   publicly what HR abuse/violation has occurred, and what steps are
-   taken to solve.
-10. If you do not agree with these all conditions mentioned in this
-   license/contract, then you cannot use this SDSP(software/data/
-   service/project,etc) in any form directly or indirectly.  You are
-   free & welcome to choose any other software/choice.  This SDSP has
-   shown these conditions at every stage in top or beginning, or
-   agreement was/is obtained with yes/no.  Any type of usage of this
-   SDSP grants this SDSP CH(copyright holders) your full consent of
-   your full acceptance & agreements with all conditions and terms
-   specified inside ten sections of conditions in this SDSP license/
-   contract.  This license/contract will make every attempts+efforts
-   to avoid any and all type HR ("Human-Rights") abuses/violations,
-   related to where this SDSP is used and who is using
-   this SDSP, etc.  So, please, do not use this SDSP, if you cannot
-   uphold or honour all HR.  If you use this SDSP, please make sure
-   you are honoring and upholding all HR to your best ability and
-   effort : all international HR constitution(s), and local HR
-   constitution(s) when local HR constitution(s) are not-violating,
-   not-abusing, not-overriding international HR constitution(s).
+stealing any data or physical items, and this SDSP must not be
+used to violate or abuse any privacy rights, of any human/person
+individual, group, organization, community, country or earth,
+either indirectly or directly in any form.  This SDSP must not be
+used for any type of stealing : spying, data collection, etc
+without first obtaining written fully aware & voluntary specific
+consent from each human/person individual,group, subject,etc, and
+also not without obtaining prior permission from this SDSP CH
+(copyright-holders).  This SDSP must not be used for any type of
+digital (or physical) jail : monitoring, tracking,etc not-without
+obtaining permission from each subject's written fully-aware and
+voluntary consent, & also not-without obtaining prior permission
+from this SDSP CH.  You agree that this SDSP license/contract
+invalidates any type of (direct/indirect) permission to spy/steal
+/collect. Invalidates (any permission) which was & is or will-be
+obtained from any judge(s), representative, proxy, jury, court or
+vote,etc.  To obtain exception/permission from CH of this SDSP,
+CH must be provided proof of real voluntary consented permission
+directly from each subject even if there are billions of subjects
+where this SDSP is being used, and such must not violate/abuse HR
+(human-rights).  This SDSP license/contract is declaring+stating
+to you in early, that, any type of voting result or decision
+whether based on representative or proxy or directly from people,
+or any order/decision from any court/judge, to use this SDSP for
+mass scale (data) stealing/collection, etc are still HR violation
+and abuse of HR, and any such decision/order is/are hereby
+declared null-and-void and illegal.
 
-DISCLAIMER : THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS  
-AND CONTRIBUTORS "AS IS", AND ANY EXPRESS OR IMPLIED WARRANTIES,  
-INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF  
-MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  
-IN NO EVENT SHALL THE COPYRIGHT HOLDER, AUTHORS, OR CONTRIBUTORS BE  
-LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR  
-CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF  
-SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, MONEY, POSSESSIONS,  
-OR LIFE; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY  
-OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT  
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF  
-THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF  
-SUCH DAMAGE.
+7. This SDSP(software/data/service/project) must not be used by
+any Military or branches, Law Enforcement or branches, or by any
+service/items provider or supplier of/for Military or Law
+Enforcement.  Unless specific written exception/permission is
+obtained from CH(copyright holders) of this SDSP.  This SDSP is
+not-allowed to be used, even if you deceptively change: Military,
+offense, attack, kill, steal, violate,etc into "Defense", "Love",
+"Human-Rights", etc.
 
-License version (yyyy-mm-dd): 2020-11-01.
+8. This SDSP (software/data/service/project) must not be used by
+any Human-Rights-violating-or-abusing = "HR-v-o-a" entity or
+person: HR-v-o-a Government(Gov), HR-v-o-a Gov branches, HR-v-o-a
+public offices, Gov/public funded HR-v-o-a individual, companies,
+groups, corporations, businesses, organizations,etc, any HR-v-o-a
+private individual, offices, companies, corporations, businesses,
+groups, organizations, etc Or any human/contractor person working
+in/for any of mentioned entities in this section.
+
+9. This SDSP(software/data/service/project) license/contract
+stating and declaring to you in early, that, you are permitting
+this SDSP CH(copyright holders) to question & obtain answer+proof
+in prior from you and any other sources by any means, to find-out
+if there is record(s) or potential of this SDSP being used for
+any HR (human-rights) violation or abuse.  This SDSP license/
+contract further stating to you : upon any report of HR violation
+or abuse by the user (you) of this SDSP or by this SDSP itself,
+this license/contract authorizes CH to obtain detail usage
+information from you/user of this SDSP, and also authorizes CH to
+obtain further related information/proof from any other sources
+by any means, including obtaining any data which even if you have
+defined as type of "secret" data, etc and then these are to be
+used for realizing the level of HR violations & abuses & losses
+therein.  You completely agree and permit, that, any type of HR
+violation or abuse by you automatically removes all protection
+of all related data, including any type of "secret" data, and
+brings those under public & international sector and scrutiny,
+to find-out detail of HR violations/abuses, to deter HR abuses/
+violations.  You agree, that, all data from any public money
+funded any type of Military,Governement,public,private,etc any
+office/branch/agency,etc is public data.  This license/contract
+also permits CH to seek compensation, remedy, etc related to HR
+violation & abuse.  This license/contract permits CH to terminate
+this license/contract, when CH decide(s) to do so at any time at
+CH's will.  This license/contract also stating and declaring to
+you in early, that, especially after above mentioned incidents,
+CH of this SDSP are automatically authorized to investigate and
+proceed to international or public court, even if you fail or
+succeed in providing detail data.  This SDSP license/contract
+allows CH to proceed in court by themselves, or by choosing thier
+nominated/representative team/individual in court.  This SDSP
+license/contract is further declaring and stating to you in
+early : any decision or order from any type of "secret" or
+non-public nature of court(s), judge/jury, representative, proxy
+or vote, is hereby declared invalid and null-and-void, from
+overriding any prceedings into international or public court.
+Any HR violation/abuse must be resolved publicly, so that even
+coercion/corruption can become public knowledge.  This license/
+contract also stating you/user of this SDSP : upon HR violation/
+abuse report/incident, CH at their/his/her will can also publish
+publicly what HR abuse/violation has occurred, and what steps are
+taken to solve.
+
+10. If you do not agree with these all conditions mentioned in
+this license/contract, then you cannot use this SHIDSP(software/
+hardware/info/data/service/project,etc) in any form directly or
+indirectly. You are free & welcome to choose any other software/
+choice.  This SHIDSP has shown these conditions at every stage
+in beginning or top, or agreement was/is obtained with "yes/no".
+Any type of usage of this SHIDSP grants this SHIDSP CH(copyright
+holders) your full consent of your full acceptance & agreements
+with all conditions and terms specified inside ten sections of
+conditions in this SHIDSP license/contract.  This license/
+contract will make every attempts+efforts to avoid any and all
+type HR ("Human-Rights") abuses/violations, related to where this
+SHIDSP is used and who is using this SHIDSP, etc.  So, please,
+do not use this SHIDSP, if you cannot uphold or honour all HR.
+If you use this SHIDSP, please make sure you are honoring and
+upholding all HR to your best ability and effort : all
+international HR constitution(s), and local HR constitution(s)
+when local HR constitution(s) are not-violating, not-abusing,
+not-overriding international HR constitution(s).  This SHIDSP
+license/contract, stating to you in early, you completely agree,
+that : this SHIDSP's CH(copyright holders) can team-up with this
+SHIDSP's License creators, that is: HR-ROSL license creators,
+for anything related to these ten sections of conditions
+specified in this license/contract.  This SHIDSP's license/
+contract creator (the HR-ROSL license creators), can deny/permit,
+invalidate/approve, override, etc this SHIDSP license/contract
+any time based on their decision/choices, in accordance with ten
+sections of conditions specified in HR-ROSL license/contract and
+in this SHIDSP's license/contract. This SHIDSP's license/contract
+is in turn based on HR-ROSL license/contract, so CH and any users
+of this SHIDSP are agreeing and in agreement with ten sections of
+conditions of the HR-ROSL license/contract.  HR-ROSL license/
+contract creators are also granted all the permissions, etc which
+are specified here for this SHIDSP's CH, and HR-ROSL license/
+contract creators are granted also those, which are needed for
+stopping Human-Rights violation & abuse, and to stop usage of
+this SHIDSP/item.
+
+
+DISCLAIMER: THIS ITEM/SHIDSP(SOFTWARE/HARDWARE/INFO/DATA/SERVICE/
+PROJECT),ETC FOR THIS ITEM IS PROVIDED "AS IS" BY THE COPYRIGHT
+HOLDERS AND CONTRIBUTORS, AND ANY EXPRESS OR IMPLIED WARRANTIES,
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT HOLDER, AUTHORS,
+CONTRIBUTORS OR ORIGINAL LICENSE "HUMAN-RIGHTS-ROSL"(HUMAN-RIGHTS
+RESPECTFUL OPEN-SOURCE LICENSE) CREATORS BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT
+OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, MONEY,
+POSSESSIONS, OR LIFE; OR BUSINESS INTERRUPTION) HOWEVER CAUSED
+AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
+ANY WAY OUT OF THE USE OF THIS ITEM/SHIDSP, EVEN IF ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGE.
 
 --- END of the Human-Rights Respectful Open Source License ---
 
@@ -168,35 +210,40 @@ License version (yyyy-mm-dd): 2020-11-01.
 
 
 
-Human-Rights Respectful Open Source License is also-known-as "HumanRightsROSL".
+Human-Rights Respectful Open Source License,  
+is also-known-as "HumanRightsROSL".
+HR-ROSL.
 
 
 
 Author: Erik T. Ashfolk. atErik -at- Ashfolk -dot- com.
 Author: Emde T. Ashfolk. emde -at- Ashfolk -dot- com.
 
-Copyright (c) 2020, Erik T. Ashfolk.
-Copyright (c) 2020, Emde T. Ashfolk.
+Copyright (C) 2020 Erik T. Ashfolk. (atErik-at-Ashfolk-dot-com)  
+Copyright (C) 2020 Emde T. Ashfolk. (emde-at-Ashfolk-dot-com)  
 
-Permission is granted to modify, copy, and redistribute this  
-license in accordance with the Creative Commons Attribution License  
-(CC-BY), without breaking the original spirit of this license.  
-CC license is here: http://creativecommons.org/licenses/by/3.0/
-
+Permission is granted to copy, redistribute this Human-Rights  
+Respectful Open Source License (HR-ROSL), in accordance with  
+HR-ROSL license/contract conditions detailed in above, without  
+breaking the original spirit of this license.  
+Permission granted to modify topside copyright section of this  
+HR-ROSL license/contract, in accordance with conditions of  
+license & without breaking the original spirit of this license,  
+to use it as a license for your SHIDSP (software/hardware/
+information/data/service/project),etc.
 
 
 
 Notes:  
-    Clause 1 and 2 come from the BSD 2-Clause license.  
-    Clause 3 is meant to ensure that the SDSP continues to be open  
-             and available to the public.  
-    Clause 4, 5, 6, 7, 8, 9, 10 are:
-             "No Harmful Use",  
-             "Not Allowed To Use For Stealing of Private Cyber/Physcial Items",  
-             "Not Allowed To Use For Violating Any Human-Rights",  
-             "No Military Use",  
-             "Not Allowed To Use In HumanRights Violating or Abusing Office/Business",  
-             "When/After Violation Occured",  
-             "Termination Of License/Contract", etc clause(s).  
-    The disclaimer is adapted from the BSD 2-Clause license.  
-
+   Clause 1 and 2 come from the BSD 2-Clause license.  
+   Clause 3 is meant to ensure that the SDSP continues to be open  
+            and available to the public.  
+   Clause 4, 5, 6, 7, 8, 9, 10 are:
+            "No Harmful Use",  
+            "Not Allowed To Use For Stealing of Private Cyber/Physcial Items",  
+            "Not Allowed To Use For Violating Any Human-Rights",  
+            "No Military Use",  
+            "Not Allowed To Use In HumanRights Violating or Abusing Office/Business",  
+            "When/After Violation Occured",  
+            "Termination Of License/Contract", etc clause(s).  
+   The disclaimer is adapted from the BSD 2-Clause license.  
