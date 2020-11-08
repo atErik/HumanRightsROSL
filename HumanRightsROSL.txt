@@ -8,12 +8,11 @@ LICENSE/CONTRACT:
 
 THIS ITEM (SHIDSP=software,hardware,info,data,service,project):  
 Human-Rights Respectful Open Source License/Contract (HR-ROSL):  
-A license that allows opensource software,hardware,information,  
-data,service,project,etc for Human-Rights Respectful usage.  
+A license to allow usage of opensource software,hardware,info,
+data,service,project,etc for Human-Rights respectful way.  
 Copyright (C) 2020 Erik T. Ashfolk. (atErik-at-Ashfolk-dot-com)  
 Copyright (C) 2020 Emde T. Ashfolk. (emde-at-Ashfolk-dot-com)  
-This item is released with Human-Rights Respectful Open Source  
-License/Contract (HR-ROSL) version(y-m-d): 2020-11-07.
+This item released with HR-ROSL license version: 2020-11-07.
 
 Redistribution and use of this SDSP/SHIDSP (here SDSP/SHIDSP is  
 pointing to the above mentioned software/hardware/info/data/  
@@ -193,9 +192,9 @@ HOLDERS AND CONTRIBUTORS, AND ANY EXPRESS OR IMPLIED WARRANTIES,
 INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
 MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
 DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT HOLDER, AUTHORS,
-CONTRIBUTORS OR ORIGINAL LICENSE "HUMAN-RIGHTS-ROSL"(HUMAN-RIGHTS
-RESPECTFUL OPEN-SOURCE LICENSE) CREATORS BE LIABLE FOR ANY
-DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONTRIBUTORS OR ORIGINAL LICENSE "HUMAN-RIGHTS-ROSL"/"HR-ROSL"
+(HUMAN-RIGHTS RESPECTFUL OPEN-SOURCE LICENSE) CREATORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
 CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT
 OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, MONEY,
 POSSESSIONS, OR LIFE; OR BUSINESS INTERRUPTION) HOWEVER CAUSED
@@ -230,7 +229,7 @@ Permission granted to modify topside copyright section of this
 HR-ROSL license/contract, in accordance with conditions of  
 license & without breaking the original spirit of this license,  
 to use it as a license for your SHIDSP (software/hardware/
-information/data/service/project),etc.
+information/data/service/project),etc item(s).
 
 
 
@@ -247,3 +246,11 @@ Notes:
             "When/After Violation Occured",  
             "Termination Of License/Contract", etc clause(s).  
    The disclaimer is adapted from the BSD 2-Clause license.  
+
+
+
+For more info on this license, visit:  
+https://github.com/atErik/HumanRightsROSL/
+
+
+Copyright (C) 2020 Erik T. Ashfolk.
