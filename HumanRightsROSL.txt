@@ -8,8 +8,8 @@ LICENSE/CONTRACT:
 
 THIS ITEM (SHIDSP=software,hardware,info,data,service,project):  
 Human-Rights Respectful Open Source License/Contract (HR-ROSL):  
-A license for peaceful usage of software,hardware,information,  
-data,service,project,etc.  
+A license that allows opensource software,hardware,information,  
+data,service,project,etc for Human-Rights Respectful usage.  
 Copyright (C) 2020 Erik T. Ashfolk. (atErik-at-Ashfolk-dot-com)  
 Copyright (C) 2020 Emde T. Ashfolk. (emde-at-Ashfolk-dot-com)  
 This item is released with Human-Rights Respectful Open Source  
