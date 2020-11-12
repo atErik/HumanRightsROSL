@@ -22,13 +22,13 @@ Contributors & Developers, please fork this project, improve it or correct mista
 (All/any eligible contributions, discussions, improvements are subject-to and under HumanRightsROSL license).  
 <br />
 
-Civilized society makes sure there are restrictions on everything & everyone , so that excessive power/ability/money, etc are not abused or used for harm/steal/kill, etc.  
-History can always show, unchecked/unrestricted power/ability/money,etc is always (very) harmful.  
+Civilized societies (attempt-to) make sure there are restrictions,limitations,etc on everything and everyone , so that excessive power/ability/data/money, etc are not concentrated/centralized in the hand (or under direct-control) of one human/person/race/entity/thing , or else, it is easier to abuse or use them for harm/steal/violate/kill, etc, etc.  
+History can always show , un-checked/un-restricted/un-balanced/un-accounted/un-audited or "full" power/ability/data/money,etc in one human/person/race/entity/thing is (almost) always (very) harmful.  
 <br />
 <br />
 <br />
 
-On the other hand/side , if you do not care about violations or abuses of Human-Rights , or you want to support more violations of Human-Rights and more abuses of Human-Rights , then you may use GPL, MIT, BSD, etc licenses for your SHIDSP (software/hardware/info/data/service/project) . These (GPL, MIT, BSD, etc) licenses do not prohibit user from using the SHIDSP for violating or abusing Human-Rights , so these (GPL, MIT, BSD, etc) licenses & pushers of these licenses are actually helping to increase violations & abuses of Human-Rights around the world & in your locality/country . Abusers & violators like to use these (GPL, MIT, BSD, etc) licenses & SHIDSP , their pushers want you to join+help them to develop under those license , so that thier buddies (or they themselves) can use those SHIDSP for more Human-Rights violations & abuses , they can do these violations & abuses easily because these (GPL, MIT, BSD, etc) licenses do not have clear restriction/prohibition on Human-Rights violations or abuses.  
+On the other hand/side , if you do not care about violations or abuses of Human-Rights , or you want to support more violations of Human-Rights and more abuses of Human-Rights , then you have right to choose any other licenses: GPL, MIT, BSD, etc for your SHIDSP (software/hardware/info/data/service/project) . (But, please use your right wisely & responsibly, and not-recklessly) .  These (GPL, MIT, BSD, etc) licenses do not prohibit user from using the SHIDSP for violating or abusing Human-Rights , so these (GPL, MIT, BSD, etc) licenses & pushers of these licenses are actually helping to increase violations & abuses of Human-Rights around the world & in your locality/country . Abusers & violators like to use these (GPL, MIT, BSD, etc) licenses & SHIDSP , their pushers want you to join+help them to develop under those license , so that thier buddies (or they themselves) can use those SHIDSP for more Human-Rights violations & abuses . They can do these violations & abuses easily because these (GPL, MIT, BSD, etc) licenses do not have clear restriction/prohibition on usage for Human-Rights violations or abuses.  
 <br />
 <br />
 <br />
