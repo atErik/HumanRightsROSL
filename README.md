@@ -59,8 +59,8 @@ This item released with HR-ROSL license version: ...
 <br />
 
 <b>(2-B)</b> change/modify by editing those lines inside the HR-ROSL license file for your software ("HumanRightsROSL_Licence_for_your-software-name.txt"), into something like these:<br />
-<pre><code><u>Name</u> of your SHIDSP(software/hardware/info/data/service/project),etc: Small <u>Description</u> Here.
-Copyright (C) <u>YEAR</u> <u>Your/Author NAME (author's longterm web/email/physical address)</u>
+<pre><code><u>Name</u> of your SHIDSP(software/hardware/info/data/service/project),etc<u>:</u> Small <u>Description</u> Here.
+Copyright (C) <u>YEAR</u> Your/Author <u>NAME</u> <u>(author's longterm web/email/physical address)</u>
 This item released with HR-ROSL license version: <u>VERSION-NUMBER</u>
 </code></pre>
 <br />
@@ -70,6 +70,7 @@ This item released with HR-ROSL license version: <u>VERSION-NUMBER</u>
 (aka: HumanRightsROSL, HR-ROSL). Get a copy, if you agree, from below:
 https://github.com/atErik/HumanRightsROSL/blob/main/HumanRightsROSL.txt
 or, https://github.com/atErik/HumanRightsROSL/
+or, https://atErik.github.io/HumanRightsROSL/
 WITHOUT AGREEING WITH ALL CONDITIONS IN HR-ROSL LICENSE/
 CONTRACT, THIS SHIDSP/ITEM CANNOT BE USED IN ANY FORM/WAY.
 WHEN ANY FORM/WAY OF USAGE OCCURS, IT IS ACCEPTANCE OF
