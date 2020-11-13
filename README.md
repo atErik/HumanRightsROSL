@@ -54,33 +54,35 @@ All/any other copyrighted items cited here are the copyright of their respective
 ...
 Copyright (C) 2020 ...
 Copyright (C) 2020 ...
-This item released with HR-ROSL license version: ...
+This item released with HR-ROSL license/contract version: ...
 </code></pre>
 <br />
 
 <b>(2-B)</b> change/modify by editing those lines inside the HR-ROSL license file for your software ("HumanRightsROSL_Licence_for_your-software-name.txt"), into something like these:<br />
 <pre><code><u>Name</u> of your SHIDSP(software/hardware/info/data/service/project),etc<u>:</u> Small <u>Description</u> Here.
 Copyright (C) <u>YEAR</u> Your/Author <u>NAME</u> <u>(author's longterm web/email/physical address)</u>
-This item released with HR-ROSL license/contract version: <u>VERSION-NUMBER</u>
+This item released with HR-ROSL license/contract version: <u>VERSION-NUMBER</u> or last.
 </code></pre>
 <br />
 
 <b>(2-C)</b> to use+declare the HR-ROSL license inside your SHIDSP/item's all (source-code) files, combine above 2-B lines with below 2-C lines:<br />
-<pre><code>This Item Is Licensed Under The HumanRights-Respectful-OpenSource-License
-(aka: HumanRightsROSL, HR-ROSL). Get a copy, if you agree, from below:
+<pre><code>This item is licensed under the "Human-Rights Respectful
+Open Source License/Contract" (aka: HumanRightsROSL, HR-ROSL).
+Get a copy, if you agree, from below:
 https://github.com/atErik/HumanRightsROSL/blob/main/HumanRightsROSL.txt
 or, https://atErik.github.io/HumanRightsROSL/HumanRightsROSL.txt
 or, https://github.com/atErik/HumanRightsROSL/
 or, https://atErik.github.io/HumanRightsROSL/
-WITHOUT AGREEING WITH ALL CONDITIONS IN HR-ROSL LICENSE/
-CONTRACT, THIS ITEM/SHIDSP CANNOT BE USED IN ANY FORM/WAY.
-WHEN ANY FORM/WAY OF USAGE OCCURS, IT IS ACCEPTANCE OF
-ALL CONDITIONS SPECIFIED INSIDE HR-ROSL LICENSE/CONTRACT.
+WITHOUT AGREEING WITH ALL CONDITIONS IN HR-ROSL BASED
+THIS LICENSE/CONTRACT, THIS ITEM/SHIDSP CANNOT BE USED
+IN ANY FORM/WAY.  WHEN ANY FORM/WAY OF USAGE OCCURS,
+THEN IT SIGNIFIES USER'S FULL ACCEPTANCE OF ALL CONDITIONS
+SPECIFIED INSIDE HR-ROSL BASED THIS LICENSE/CONTRACT.
 THIS ITEM IS PROVIDED "AS IS" AND WITHOUT ANY WARRANTY.
 THIS ITEM MUST-NOT BE USED FOR ANY-TYPE VIOLATION OR
 ABUSE OR HARM OF ANY HUMAN OR HUMAN-RIGHTS, AND THIS
-ITEM MUST-NOT BE USED FOR STEALING PRIVATE DATA IN ANY
-FORM/WAY.
+ITEM MUST-NOT BE USED FOR ANY TYPE OF STEALING OF
+PRIVATE DATA IN ANY FORM/WAY.
 </code></pre>
 <br />
 
