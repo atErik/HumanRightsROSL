@@ -1,91 +1,138 @@
 --- BEGIN of the Human-Rights Respectful Open Source License ---
 
 LICENSE/CONTRACT:  
-  NAME: HUMAN-RIGHTS RESPECTFUL OPEN SOURCE LICENSE/CONTRACT.  
-  Version(y-m-d) 2020-11-12.  
-  Copyright (C) 2020 Erik T. Ashfolk. (atErik-at-Ashfolk-dot-com)  
-  Copyright (C) 2020 Emde T. Ashfolk. (emde-at-Ashfolk-dot-com)  
+  NAME: HUMAN-RIGHTS RESPECTFUL OPEN SOURCE LICENSE/CONTRACT.
+  Version(y-m-d) : 2020-11-13. AKA:"Human-Rights-ROSL","HR-ROSL".
+  Copyright (C) 2020 Erik T. Ashfolk. (atErik-at-Ashfolk-dot-com)
+  Copyright (C) 2020 Emde T. Ashfolk. (emde-at-Ashfolk-dot-com)
 
-THIS ITEM (SHIDSP=software,hardware,info,data,service,project):  
-Human-Rights Respectful Open Source License/Contract (HR-ROSL):  
+THIS ITEM (This SHIDSP):
+Human-Rights Respectful Open Source License/Contract (HR-ROSL):
 A license to allow usage of opensource software,hardware,info,
-data,service,project,etc for Human-Rights respectful way.  
-Copyright (C) 2020 Erik T. Ashfolk. (atErik-at-Ashfolk-dot-com)  
-Copyright (C) 2020 Emde T. Ashfolk. (emde-at-Ashfolk-dot-com)  
-This item released with HR-ROSL license version: 2020-11-12.
+data,service,project,etc for Human-Rights respectful way.
+Copyright (C) 2020 Erik T. Ashfolk. (atErik-at-Ashfolk-dot-com)
+Copyright (C) 2020 Emde T. Ashfolk. (emde-at-Ashfolk-dot-com)
+This item released with HR-ROSL license version: 2020-11-13.
 
-Redistribution and use of this SDSP/SHIDSP (here SDSP/SHIDSP is  
-pointing to the above mentioned software/hardware/info/data/  
-service/project,etc), which is accompanying this license/contract  
-in source and binary forms, with or without modification, are  
-permitted provided that the following ten sections of conditions  
-are met:
+Here SHIDSP="software,hardware,info,data,service,project,etc",
+CH="Copyright-Holders", LC="License-Creators", HR="Human-Rights",
+HR-ROSL="Human-Rights Respectful Open Source License/Contract".
 
-1. Redistributions of this SDSP (software, source code, service,
-data, project, etc) must retain the above copyright notice, this
-list of ten sections of conditions and the following disclaimer.
+Redistribution and use of this item, (here item is pointing to
+above mentioned SHIDSP item under the "THIS ITEM" line/section),
+which is accompanying this license/contract in source and binary
+forms, with or without modification, are permitted provided that
+following ten sections of conditions are met:
+
+1. Redistributions of this SHIDSP (software, source code,
+hardware, design, information, data, service, project, etc)
+must retain the above copyright notice, license/contract notice,
+and this list of ten sections of conditions and the following
+disclaimer.
 
 2. Redistributions in binary form must reproduce the above
-copyright notice, this list of ten sections of conditions and the
-following disclaimer in the documentation and/or other materials
-provided with the distribution from this SDSP.
+copyright notice, license/contract notice, and this list of
+ten sections of conditions and the following disclaimer in
+the documentation and/or other materials provided with the
+distribution from this SHIDSP.
 
-3. Modifications to this SDSP (software, source code, data,
-service, project, etc) must retain above copyright notice, this
-list of ten sections of conditions, and the following disclaimer,
-and may not include further conditions or licensing which go
-against the spirit of this license.
+3. Modifications to this SHIDSP (software, source code,
+hardware, design, information, data, service, project, etc)
+must retain above copyright notice, license/contract notice,
+and this list of ten sections of conditions, and the following
+disclaimer, and may not include further conditions or licensing
+which go against the spirit of this license/contract.
 
-4. Here we use "HR" = Human-Rights. "CH" = Copyright-Holder(s).
-This SDSP (software/data/service/project) must not be used to
-violate or abuse (any) HR, either directly or indirectly in any
-form.  This SDSP must not be used to violate or abuse HR in any
-form in any physical location, written articles, media, video,
-broadcast, etc or in any form inside cyberspace/Internet.  This
-SDSP license/contract is declaring/stating in early to you, user
-of this SDSP, that, this SDSP must not be used to violate / abuse
-any human-rights even for "National Security" excuse/reason : As
-nothing (not even "National Security" or court order/decision or
-voted decision) can be above "Human-Rights".  This SDSP license/
-contract is further declaring and stating in early to you : any
-result/decision from any voting, or any order or decision from
-any court, to override usage of this SDSP or SDSP content to
-violate/abuse HR, is hereby declared null-and-void and illegal.
+4. This SHIDSP (software, source code, hardware, design,
+information, data, service, project, etc), under the HR-ROSL
+license/contract, must not be used to violate or abuse (any)
+HR (Human-Rights) of human individual,group,community,country or
+earth,etc either directly or indirectly in any form.  This SHIDSP
+must not be used to violate or abuse HR or Human in any form in
+any physical location, written articles, media, video, broadcast,
+etc or in any form inside cyberspace/Internet.  This SHIDSP
+license/contract is declaring/stating in early to you, user of
+this SHIDSP, that, you agree that, this SHIDSP must not be used
+to violate or abuse any human or human-rights even for "National
+Security" excuse/reason, As nothing, not even "National Security"
+order/decision, not even court or voted order/decision, whether
+done directly or indirectly, Can be above HR "Human Rights".
+Any type of voted/ordered decision to kill/abuse/violate others
+is invalid & not-acceptable, when you use this HR-ROSL license
+and this SHIDSP item.  This SHIDSP license/contract is further
+declaring and stating in early to you: any result/decision from
+any voting, or any order or decision from any court, to override
+usage of this SHIDSP or SHIDSP content/data to violate/abuse any
+HR or human, is hereby declared null-and-void and invalid and
+illegal, and not-appilcable with/for this HR-ROSL license and
+this SHIDSP item.  This license/contract clearly stating to you,
+you agree with this, that: a majority or a minority voted
+decision to kill, abuse, violate human-rights or human, either
+indirectly or directly, is inhumane and illegal and not-valid.
 
-5. This SDSP(software/data/service/project) must not be used to
-cause deliberate harm to any human individual,group,community or
-country either directly or indirectly, in any form.
+5. This SHIDSP (software, source code, hardware, design,
+information, data, service, project, etc) must not be used for
+stealing or collection of any data, digital or physical items
+(especially private items) in any form/way, and this SHIDSP
+must not be used to violate or abuse any privacy rights, of any
+human/person individual, group, organization, community, country
+or earth,etc either indirectly or directly in any form/way.
+This SHIDSP license/contract stating & declaring to you in early,
+and you also agree that, following claims are not-acceptable and
+invalid : any type of decision or declaration that, private type
+of items/data/devices/components are "public" type of items/data/
+devices/components, after processing private data declaring it
+as "public" data, etc, declaring private data processing inside
+the private device/components was not possible, etc, and doing
+any such is are not acceptable for/with this SHIDSP's license/
+contract or with HR-ROSL license/contract, doing any of those/
+such is inhumane, illegal, not-valid, and done against the spirit
+of supporting/upholding HR (human-rights).  You agree that, in
+cyber/digital world, human/person individual,group,community,
+country,earth,etc is/are represented with their presence by using
+combination of private & public items under their control : data,
+device,component,etc, among these, which are their private,owned,
+device,premise,etc items, those have similar rights as HR (human
+rights) in physical world.  This SHIDSP must not be used for any
+type of cyber/digital,physical item/data stealing: spying, data
+collection, extra/meta data collection, etc. When every & each
+human/person individual,group,subject,etc and their cyber-world
+presence device,component,etc, which have come under the scope/
+scan,etc of this SHIDSP item, and (when each) have authorized in
+written form, their fully aware and voluntary specific consent
+in prior, only then this SHIDSP can be used, if it does not
+violate/abuse HR (human-rights) of even a single other human/
+person individual,group,subject,etc or their cyber-world presence
+device,data,component,etc. When there is a chance of even one
+human/person,subject,device,data,etc or even one of their cyber
+world presence evice,data,component,etc can come under the scope/
+scan,etc of this SHIDSP, whose written permission is not yet
+obtained, then in such use cases, this SHIDSP cannot be used to
+collect/steal/store data. You agree that, by obtaining written
+permission(s) of few or most, you/user cannot begin to violate/
+abuse HR (human-rights) of some others or even one other, so this
+SHIDSP clearly again stating & declaring to you in early, and
+you also agree that, you cannot use this SHIDSP for any such use
+case(s). CH cannot permit you to violate/abuse HR.  This SHIDSP
+must not be used for any type of cyber/digital or physical jail:
+monitoring, tracking,etc, and conditions are same & already
+mentioned in above inside this section.  You agree that this
+SHIDSP license/contract invalidates any type of (direct/indirect)
+permission to spy/steal/collect, and also invalidates (any type
+of permission) which was & is or will-be obtained from any type
+of non-public or public judge(s), representative, proxy, jury,
+court or vote,etc.  This SHIDSP license/contract is declaring
+and stating to you in early, and you also agree that: any type
+of voting result or decision whether based on representative or
+proxy or directly from people, or any order/decision from any
+type of non-public or public court/judge, to use this SHIDSP for
+mass scale (data) stealing/collection, or even a narrow scale
+stealing/colection,etc are still HR (human-rights) violation
+and abuse, and any such decision/order is/are hereby declared
+null-and-void and illegal and invalid, for this HR-ROSL license
+and for this SHIDSP item and license.
 
-6. This SDSP(software/data/service/project) must not be used for
-stealing any data or physical items, and this SDSP must not be
-used to violate or abuse any privacy rights, of any human/person
-individual, group, organization, community, country or earth,
-either indirectly or directly in any form.  This SDSP must not be
-used for any type of stealing : spying, data collection, etc
-without first obtaining written fully aware & voluntary specific
-consent from each human/person individual,group, subject,etc, and
-also not without obtaining prior permission from this SDSP CH
-(copyright-holders).  This SDSP must not be used for any type of
-digital (or physical) jail : monitoring, tracking,etc not-without
-obtaining permission from each subject's written fully-aware and
-voluntary consent, & also not-without obtaining prior permission
-from this SDSP CH.  You agree that this SDSP license/contract
-invalidates any type of (direct/indirect) permission to spy/steal
-/collect. Invalidates (any permission) which was & is or will-be
-obtained from any judge(s), representative, proxy, jury, court or
-vote,etc.  To obtain exception/permission from CH of this SDSP,
-CH must be provided proof of real voluntary consented permission
-directly from each subject even if there are billions of subjects
-where this SDSP is being used, and such must not violate/abuse HR
-(human-rights).  This SDSP license/contract is declaring+stating
-to you in early, that, any type of voting result or decision
-whether based on representative or proxy or directly from people,
-or any order/decision from any court/judge, to use this SDSP for
-mass scale (data) stealing/collection, etc are still HR violation
-and abuse of HR, and any such decision/order is/are hereby
-declared null-and-void and illegal.
-
-7. This SDSP(software/data/service/project) must not be used by
+6. This SDSP(software/data/service/project) must not be used by
 any Military or branches, Law Enforcement or branches, or by any
 service/items provider or supplier of/for Military or Law
 Enforcement.  Unless specific written exception/permission is
@@ -94,7 +141,7 @@ not-allowed to be used, even if you deceptively change: Military,
 offense, attack, kill, steal, violate,etc into "Defense", "Love",
 "Human-Rights", etc.
 
-8. This SDSP (software/data/service/project) must not be used by
+7. This SDSP (software/data/service/project) must not be used by
 any Human-Rights-violating-or-abusing = "HR-v-o-a" entity or
 person: HR-v-o-a Government(Gov), HR-v-o-a Gov branches, HR-v-o-a
 public offices, Gov/public funded HR-v-o-a individual, companies,
@@ -103,7 +150,7 @@ private individual, offices, companies, corporations, businesses,
 groups, organizations, etc Or any human/contractor person working
 in/for any of mentioned entities in this section.
 
-9. This SDSP(software/data/service/project) license/contract
+8. This SDSP(software/data/service/project) license/contract
 stating and declaring to you in early, that, you are permitting
 this SDSP's CH(copyright-holders) and HR-ROSL (Human-Rights
 Respectful Open-Source License/Contract)'s LC(license-creators)
@@ -153,7 +200,7 @@ this SDSP : upon HR violation/abuse report/incident, CH and LC at
 their/his/her will can also publish publicly what HR violation/
 abuse has occurred, and what steps are taken to solve.
 
-10. If you do not agree with these all ten sections of conditions
+9. If you do not agree with these all ten sections of conditions
 of HR-ROSL (Human-Rights Respectful Open-Source License/Contract)
 mentioned by this SHIDSP (software/hardware/info/data/service/
 project,etc), then you cannot use this SHIDSP in any form or way
@@ -164,20 +211,23 @@ with "yes/no".  Any type of usage of this SHIDSP grants this
 SHIDSP CH(copyright-holders) and HR-LC (HR-ROSL license/contract
 creators) your full consent of your full acceptance & agreements,
 with all ten sections of conditions and terms specified inside
-these sections in this SHIDSP license/contract.  This license/
-contract's CH and HR-LC will make every attempts+efforts to avoid
-any and all type HR ("Human-Rights") abuses/violations, related
-to where this SHIDSP is used and who is using this SHIDSP, etc.
-So, please, do not use this SHIDSP, if you cannot uphold or
-honour all HR.  If you use this SHIDSP, please make sure you are
-honoring & upholding all HR to your best ability and effort: all
-international HR constitution(s) and convention(s), and local HR
-constitution(s) when local HR constitution(s) are not-violating,
-not-abusing, not-overriding international HR constitution(s)/
-convention(s) agreement(s).  This SHIDSP license/contract is
-stating to you in early, you agree completely, that : this SHIDSP
-CH(copyright-holders) can team up with this SHIDSP's HR-ROSL LC
-(license-creators) and lawyers, for anything related to these ten
+these sections in this SHIDSP license/contract.
+
+10. This license/contract's CH (copyright-holders) and HR-LC
+(HR-ROSL license/contract creators) will make every attempts and
+efforts to avoid any and all type HR ("Human-Rights") violations/
+abuses, related to where this SHIDSP is used and who is using
+this SHIDSP, etc.  So, please, do not use this SHIDSP, if you
+cannot uphold or honour or follow all HR.  If you use this SHIDSP
+please make sure you are honoring & upholding all HR to your best
+ability and effort : all international HR constitution(s) and
+convention(s), and local HR constitution(s) when local HR
+constitution(s) are not-violating, not-abusing, not-overriding
+international HR constitution(s)/convention(s) agreement(s).
+This SHIDSP license/contract is stating to you in early, and you
+also agree completely that : this SHIDSP's CH(copyright-holders)
+can team up with this SHIDSP's HR-ROSL LC (license-creators) and
+lawyers, and representatives, for anything related to these ten
 sections of conditions specified in this license/contract.  This
 SHIDSP's LC(license/contract-creator), that is: HR-ROSL license
 creators(LC), can deny/permit, invalidate/approve and override,
@@ -191,11 +241,11 @@ she/it agree(s) with all ten sections of conditions of HR-ROSL
 license/contract and this SHIDSP's license/contract.  HR-ROSL
 license/contract creators are granted all the permissions, etc
 which are granted & specified here and earlier sections for this
-SHIDSP's CH(copyright-holders), and LC (HR-ROSL license/contract
+SHIDSP's CH(copyright-holders). And LC (HR-ROSL license/contract
 creators) are also granted those extra permissions, which are
-needed/necessary for stopping Human-Rights violation & abuse, and
-to stop usage of this SHIDSP/item, and to stop usage of this
-HR-ROSL license/contract.
+needed/necessary/required for stopping Human-Rights violation
+and abuse, and to stop usage of this SHIDSP/item, and to stop
+usage of this HR-ROSL license/contract.
 
 
 DISCLAIMER: THIS ITEM/SHIDSP(SOFTWARE/HARDWARE/INFO/DATA/SERVICE/
@@ -263,8 +313,9 @@ Notes:
 
 For more info on this license, visit:  
 https://github.com/atErik/HumanRightsROSL/  
-https://aterik.github.io/HumanRightsROSL/  
-
+https://atErik.github.io/HumanRightsROSL/  
+https://github.com/atErik/HumanRightsROSL/blob/main/HumanRightsROSL.txt  
+https://atErik.github.io/HumanRightsROSL/HumanRightsROSL.txt  
 
 
 Edit Note : When editing, edit both/all of these:  
