@@ -49,19 +49,24 @@ All/any other copyrighted items cited here are the copyright of their respective
 <b>(1-D)</b> Copy "HumanRightsROSL_License.txt", & paste+rename into "HumanRightsROSL_Licence_for_your-software-name.txt"  
 <br />
 
-<b>(2-A)</b> find below lines inside the "HumanRightsROSL_Licence_for_your-software-name.txt" file. Below lines can be found under "THIS ITEM" words:<br /><pre><code>Human-Rights Respectful Open Source License/Contract (HR-ROSL):<br />
+<b>(2-A)</b> find below lines inside the "HumanRightsROSL_Licence_for_your-software-name.txt" file. Below lines can be found under "THIS ITEM" words:<br />
+<pre><code>Human-Rights Respectful Open Source License/Contract (HR-ROSL):<br />
 ...<br />
 Copyright (C) 2020 ...<br />
 Copyright (C) 2020 ...<br />
-This item released with HR-ROSL license version: ...</code></pre>
+This item released with HR-ROSL license version: ...
+</code></pre>
 <br />
 
-<b>(2-B)</b> change/modify by editing those lines inside the HR-ROSL license file for your software ("HumanRightsROSL_Licence_for_your-software-name.txt"), into something like these:<br /><code><pre><u>Name</u> of your SHIDSP(software/hardware/info/data/service/project),etc: Small <u>Description</u> Here.<br />
+<b>(2-B)</b> change/modify by editing those lines inside the HR-ROSL license file for your software ("HumanRightsROSL_Licence_for_your-software-name.txt"), into something like these:<br />
+<pre><code><u>Name</u> of your SHIDSP(software/hardware/info/data/service/project),etc: Small <u>Description</u> Here.<br />
 Copyright (C) <u>YEAR</u> <u>Your/Author NAME (author's longterm web/email/physical address)</u><br />
-This item released with HR-ROSL license version: <u>VERSION-NUMBER</u></pre></code>
+This item released with HR-ROSL license version: <u>VERSION-NUMBER</u>
+</code></pre>
 <br />
 
-<b>(2-C)</b> combine above lines with below lines, to use inside your SHIDSP/item's other (source-code) files:<br /><pre><code>This Item Is Licensed Under The HumanRights-Respectful-OpenSource-License<br />
+<b>(2-C)</b> combine above lines with below lines, to use inside your SHIDSP/item's other (source-code) files:<br />
+<pre><code>This Item Is Licensed Under The HumanRights-Respectful-OpenSource-License<br />
 (aka: HumanRightsROSL, HR-ROSL). Get a copy, if you agree, from below:<br />
 https://github.com/atErik/HumanRightsROSL/blob/main/HumanRightsROSL.txt<br />
 or, https://github.com/atErik/HumanRightsROSL/<br />
@@ -71,7 +76,8 @@ WHEN ANY FORM/WAY OF USAGE OCCURS, IT IS ACCEPTANCE OF<br />
 ALL CONDITIONS SPECIFIED IN HR-ROSL LICENSE/CONTRACT.<br />
 THIS ITEM IS PROVIDED "AS IS" AND WITHOUT ANY WARRANTY.<br />
 THIS ITEM MUST NOT BE USED WHERE ANY-TYPE VIOLATION OR<br />
-ABUSE OF HUMAN-RIGHTS IS OCCURING OR MAY/CAN OCCUR.</code></pre>
+ABUSE OF HUMAN-RIGHTS IS OCCURING OR MAY/CAN OCCUR.
+</code></pre>
 <br />
 
 <b>(3-A)</b> And began to notify all with those modified lines from section 2b+2c in above, by using those (modified) lines in top/initial location of your SHIDSP(software/hardware/info/data/service/project),etc source code files, and in notification/output of SHIDSP or binary output, etc.  
