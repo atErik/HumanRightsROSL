@@ -56,9 +56,9 @@ Copyright (C) 2020 ...<br />
 This item released with HR-ROSL license version: ...</code></pre>
 <br />
 
-<b>(2-B)</b> change/modify by editing those lines inside the HR-ROSL license file for your software ("HumanRightsROSL_Licence_for_your-software-name.txt"), into something like these:<br /><pre><code><u>Name</u> of your SHIDSP(software/hardware/info/data/service/project),etc: Small <u>Description</u> Here.<br />
+<b>(2-B)</b> change/modify by editing those lines inside the HR-ROSL license file for your software ("HumanRightsROSL_Licence_for_your-software-name.txt"), into something like these:<br /><code><pre><u>Name</u> of your SHIDSP(software/hardware/info/data/service/project),etc: Small <u>Description</u> Here.<br />
 Copyright (C) <u>YEAR</u> <u>Your/Author NAME (author's longterm web/email/physical address)</u><br />
-This item released with HR-ROSL license version: <u>VERSION-NUMBER</u></code></pre>
+This item released with HR-ROSL license version: <u>VERSION-NUMBER</u></pre></code>
 <br />
 
 <b>(2-C)</b> combine above lines with below lines, to use inside your SHIDSP/item's other (source-code) files:<br /><pre><code>This Item Is Licensed Under The HumanRights-Respectful-OpenSource-License<br />
