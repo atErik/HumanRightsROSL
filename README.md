@@ -6,9 +6,11 @@ This license respects Human-Rights, & attempts to increase Human-Rights.
 
 This license supports reduction of violations & abuses of Human-Rights.  
 
-This license very cleraly prohibits/disallows usage of opensource "<b>SDSP</b>"=<b>s</b>oftware/<b>d</b>ata/<b>s</b>ervice/<b>p</b>roject for any type violations or abuses of Human-Rights.  
+( Abbreviations: <b>SHIDSP</b> = <b>s</b>oftware/<b>h</b>ardware/<b>i</b>nformation/<b>d</b>ata/<b>s</b>ervice/<b>p</b>roject,etc )  
 
-This license allows usage of opensource "<b>SHIDSP</b>"=<b>s</b>oftware/<b>h</b>ardware/<b>i</b>nformation/<b>d</b>ata/<b>s</b>ervice/<b>p</b>roject,etc with Human-Rights respectful way.  
+This license very cleraly prohibits/disallows usage of opensource SHIDSP,etc for any type violations or abuses of Human-Rights.  
+
+This license allows usage of opensource SHIDSP,etc with Human-Rights respectful way.  
 
 In another words, this is a : Human-Rights violations & abuses reduction opensource license.  
 <br />
@@ -25,6 +27,9 @@ Contributors & Developers, please fork this project, improve it or correct mista
 Civilized societies (attempt-to) make sure there are restrictions,limitations,etc on everything and everyone , so that excessive power/ability/data/money, etc are not concentrated/centralized in the hand (or under direct-control) of one human/person/race/entity/thing , or else, it is easier to abuse or use them for harm/steal/violate/kill, etc, etc.  
 History can always show , un-checked/un-restricted/un-balanced/un-accounted/un-audited or "full" power/ability/data/money,etc in one human/person/race/entity/thing is (almost) always (very) harmful.  
 <br />
+<br />
+
+( Abbreviations: <b>SHIDSP</b> = <b>s</b>oftware/<b>h</b>ardware/<b>i</b>nformation/<b>d</b>ata/<b>s</b>ervice/<b>p</b>roject,etc )  
 <br />
 <br />
 
